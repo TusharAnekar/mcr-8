@@ -1,4 +1,13 @@
 .header_container {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 10px;
+    margin: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.header_container input {
+    font-size: large;
+    padding: 10px;
+    height: fit-content;
 }
